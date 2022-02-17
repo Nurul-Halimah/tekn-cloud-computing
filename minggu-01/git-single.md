@@ -28,17 +28,29 @@
 
 ![05](image/Installgit/5.png)
 
-6. Pada saat instalasi, kita bisa melakukan setting default branch saat melakukan git init, disini saya memilih main
+6. Setelah itu proses instalasi akan dilakukan.
 
-![06](image/Installgit/6.png)
+![15](image/Installgit/15.png)
 
-7. Pada saat instalasi, Git menyediakan akses git melalui Bash maupun command prompt. Pilih pilihan kedua supaya bisa menggunakan dari dua antarmuka tersebut. Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di command line Windows bisa dilakukan menggunakan bash - termasuk ekskusi dari Git.
+7. Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
 
-![07](image/Installgit/7.png)
+![16](image/Installgit/16.png)
 
-8. Pilih bundled OpenSSH untuk HTTPS. Git menggunakan SSH untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla).
+8. Untuk menjalankan, dari Start, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI".
 
-![08](image/Installgit/8.png)
+![17](image/Installgit/17.png)
+
+9. Tampilan jika akan menggunakan Git Bash
+
+![18](image/Installgit/18.png)
+
+10. Tampilan jika akan menggunakan Git GUI
+
+![19](image/Installgit/19.png)
+
+11. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
+
+![20](image/Installgit/20.png)
 
 ##B. Konfigurasi GIT
 Untuk melakukan konfigurasi GIT bisa melakukan melalui Command prompt dengan memakai perintah sebagai berikut.
