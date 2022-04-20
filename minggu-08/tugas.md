@@ -4,7 +4,7 @@
 
 ![5](image/img5.jpg)
 
-Dalam diagram ini bisa sedikit saya jelaskan :
+Dalam diagram ini bisa dijelaskan bahwa:
 
 1. docker images dijalankan pada docker container
 2. dalam docker terdapat container manajemen yaitu docker compose dan docker swarm
