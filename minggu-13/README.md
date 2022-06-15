@@ -4,4 +4,4 @@
 
 link file :
 
-1. [Latihan]()
+1. [Latihan](https://github.com/Nurul-Halimah/tekn-cloud-computing/blob/a8b150d0e2ba33d03b3d9ab6642141700ee28dd6/minggu-13/latihan.md)
